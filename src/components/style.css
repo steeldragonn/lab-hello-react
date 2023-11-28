@@ -1,0 +1,58 @@
+.list-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-img {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  background-color: rgb(39, 38, 38);
+  height: 600px;
+  margin: 10px;
+}
+
+.titlepart {
+  padding: 30px;
+  margin: 30px;
+  float: left;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  color: white;
+  font-size: 60px;
+}
+
+p1 {
+  color: white;
+  font-size: x-large;
+}
+
+button {
+  float: left;
+  margin: 30px;
+  padding: 30px;
+  width: 150px;
+  height: 50px;
+  background-color: #f5eded;
+}
+
+.logo {
+  margin: 30px;
+  float: left;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav {
+  margin: 30px;
+  float: right;
+  display: flex;
+  justify-content: space-between;
+}
